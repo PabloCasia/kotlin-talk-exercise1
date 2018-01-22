@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KtMovies</string>
+    <string name="action_orderBy_TopRated">⇵ Top Rated</string>
+    <string name="action_orderBy_Popular">⇵ Popular</string>
+    <string name="action_orderBy_NowPlaying">⇵ Now Playing</string>
+    <string name="action_orderBy_Latest">⇵ Latest</string>
+    <string name="action_orderBy_Upcoming">⇵ Upcoming</string>
+    <string name="error_message">Failed to get results. </string>
+    <string name="trailers">Trailers:</string>
+    <string name="mark_as_favorite">Favorite</string>
+    <string name="error_fetching_trailers">Error fetching trailers</string>
+    <string name="trailerName">Trailer</string>
+    <string name="reviews">Reviews:</string>
+    <string name="totalRating">/10</string>
+    <string name="movie_detail_trailers">Trailers</string>
+    <string name="movie_detail_reviews">Reviews</string>
+</resources>
