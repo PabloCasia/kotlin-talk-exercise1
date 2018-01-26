@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.pablocasia.kotlinmovies.R
+import com.pablocasia.kotlinmovies.domain.Review
 import kotlinx.android.synthetic.main.review_item.view.*
 
 /**

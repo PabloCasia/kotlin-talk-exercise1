@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.pablocasia.kotlinmovies.R
+import com.pablocasia.kotlinmovies.domain.Trailer
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.trailer_item.view.*
 
